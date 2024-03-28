@@ -1,0 +1,22 @@
+- title: Announcements
+  url: /announcements/
+- title: Upcoming
+  url: /upcoming/
+- title: Previous
+  url: /previous/
+- title: Members
+  url: /members/
+- title: Local Companies
+  url: /local
+- title: Kotlin News
+  url: /news
+- title: About
+  url: /about/
+- title: Tags
+  url: /tags/
+- title: More
+  sublinks:
+    - title: FAQ
+      url: /faq/
+    - title: Docs
+      url: /docs/

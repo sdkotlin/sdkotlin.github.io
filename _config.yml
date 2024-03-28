@@ -1,3 +1,45 @@
-theme: jekyll-theme-minimal
-title: The San Diego Kotlin User Group
-description: The SD Kotlin website.
+title: SDKotlin
+description: SDKotlin Website
+author: SDKotlin
+avatar: /Kotlin Meetup Cover.png
+email: ian@ianbrandt.com
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 10
+
+skin: Daylight
+
+# Uncomment the below line and set the tracking ID for enabling Google Analytics
+# 
+# google_analytics: 
+
+# Uncomment the below lines and set the Disqus shortname for enabling Disqus
+# 
+# disqus:
+
+# Jekyll
+# ======
+exclude:
+  - scripts/
+  - README.md
+  - jekyll-theme-hamilton.gemspec
+
+# Jekyll SEO Tag (Optional)
+# =========================
+twitter:
+  username: sdkotlin
+  card: summary
+logo: Kotlin Meetup Cover.png
+social:
+  name: SDKotlin
+  links:
+    - https://twitter.com/sdkotlin
+    - https://www.facebook.com/sdkotlin
+    - https://github.com/sdkotlin
+google_site_verification: u4WXQl0Eu66rsQo2kRdCNx # TODO new HASH
+lang: en

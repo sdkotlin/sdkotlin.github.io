@@ -1,0 +1,6 @@
+- title: Twitter
+  url: https://twitter.com/sdkotlin
+  icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/sdkotlin/sdkotlin.github.io
+  icon: fab fa-github
