@@ -12,6 +12,8 @@ plugins:
 
 paginate: 10
 
+skin: Daylight
+
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
 # google_analytics: 
